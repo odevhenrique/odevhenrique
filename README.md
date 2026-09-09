@@ -5,20 +5,20 @@ width="400px"
 align="right" 
 alt="Computador ilustrado"/>
 
-# 👨‍💻 Olá, eu sou Henrique
+# Olá, eu sou Henrique!
 
 <p align="left">
-🎓 Estudante de <strong>Ciência da Computação</strong> <br>
-💼 Atualmente atuo como <strong>Trainee na FADEX</strong> <br>
-🚀 Desenvolvo aplicações <strong>web e mobile</strong>, automações e soluções digitais. <br>
-🐍 Tenho <strong>Python</strong> como minha principal stack, focado em construir tecnologia para resolver problemas.
+- Estudante de <strong>Ciência da Computação</strong> <br>
+- Atualmente atuo como <strong>Analista de crédito na GG Finance</strong> <br>
+- Desenvolvo aplicações <strong>web e mobile</strong>, automações e soluções digitais. <br>
+- Tenho <strong>Python</strong> como minha principal stack, focado em construir tecnologia para resolver problemas.
 </p>
 
 ---
 
-## 🚀 Tecnologias
+## Tecnologias
 
-### 💻 Linguagens
+### Linguagens
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" height="45"/>
@@ -28,7 +28,7 @@ alt="Computador ilustrado"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" height="45"/>
 </p>
 
-### ⚡ Frameworks & Tecnologias
+### Frameworks & Tecnologias
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="45" height="45"/>
@@ -38,7 +38,7 @@ alt="Computador ilustrado"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="45" height="45"/>
 </p>
 
-### 🛠️ Ferramentas
+### Ferramentas
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" height="45"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" height="45"/>
@@ -50,7 +50,7 @@ alt="Computador ilustrado"/>
 
 ---
 
-## 📚 Atualmente estudando
+## Atualmente estudando
 
 - Arquitetura de Software  
 - Desenvolvimento Mobile  
@@ -60,7 +60,7 @@ alt="Computador ilustrado"/>
 
 ---
 
-## 💌 Vamos nos conectar?
+## Vamos nos conectar?
 
 <p align="left">
   <a href="mailto:costa.henrique9577@gmail.com@gmail.com" title="Gmail">
